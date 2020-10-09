@@ -1,8 +1,8 @@
 ## Twofer Exercise - Exercism, Ruby Track
 
-'Two-fer' or '2-fer' is short for two for one. One for you and one for me.
+`Two-fer` or `2-fer` is short for two for one. One for you and one for me.
 
-''"One for X, one for me."''
+``"One for X, one for me."``
 
 When X is a name or "you".
 
